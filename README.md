@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Eu estou estudando back-end
-- 👯 Estou estudando tecnologias .net
+- 👯 Estou estudando tecnologias .net e java
 
  <div>
   <a href="https://github.com/LaurediGustavo">
