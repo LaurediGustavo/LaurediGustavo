@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 Eu estou estudando back-end
 - 👯 Estou estudando tecnologias .net e java
 
  <div>
